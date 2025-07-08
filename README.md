@@ -4,4 +4,4 @@
 📫 Cómo contactarme: erazo.cuella@gmail.com
 
 🛠️ Tecnologías y herramientas que deseo aprender
-JavaScript Python React y php
+JavaScript Python React y php.
